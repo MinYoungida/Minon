@@ -17,7 +17,8 @@
 💬 Ask me about **Python, Java, HTMl, CSS**
 
  </div>
- 
+
+<!--
 <div align="center"> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
@@ -27,6 +28,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+-->
 
  <hr/>
  
